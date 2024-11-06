@@ -1,2 +1,2 @@
-# P1-C-and-L
+# Assignment 1
 Conditional Statements and Loops
